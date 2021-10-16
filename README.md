@@ -6,7 +6,7 @@
 ## Refractor
 ### Summary of corrections
 * Fixed the website title page to correspond to business name 
-* Corrected application's links all function correctly
+* Corrected application's links to all function correctly
 * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
 * Application's HTML and CSS files are properly commented.
 
