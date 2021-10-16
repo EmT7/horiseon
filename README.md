@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Project Description:
-# This is Challenge #1 in Coding Bootcamp. Objective: Refrator existing code for Horiseon web page. Streamline and make code readable for client. Client is a digital marketing company.
+## This is Challenge #1 in Coding Bootcamp. Objective: Refrator existing code for Horiseon web page. Streamline and make code readable for client. Client is a digital marketing company.
 
 ## Refractor
 # Summary of corrections
